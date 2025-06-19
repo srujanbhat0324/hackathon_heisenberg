@@ -5,3 +5,4 @@ Cities often face infrastructure issues (like potholes, broken streetlights, wat
 
 Solution:
 CiviLink is a real-time, community-driven web platform that bridges the gap between citizens and municipal authorities for faster issue resolution and active community involvement.
+.
